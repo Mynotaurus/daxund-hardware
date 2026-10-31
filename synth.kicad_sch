@@ -9259,7 +9259,7 @@
     (property "Reference" "R20" (at 243.84 48.26 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "22k" (at 243.84 50.8 0)
+    (property "Value" "33k" (at 243.84 50.8 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" (at 239.522 49.53 90)
